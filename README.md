@@ -1,5 +1,5 @@
 # CS_Model_Adaptation
-This repository contains the code for the paper "Refining Pre-trained Models for Generalizable Commonsense Reasoning" (EMNLP 2021). See full paper [here]()
+This repository contains the code for the paper "Exploring Strategies for Generalizable Commonsense Reasoning with Pre-trained Models" (EMNLP 2021). See full paper [here]()
 
 Note that our finetuning and inference code are adpated from [ProtoQA](https://github.com/iesl/ProtoQA_GPT2), 
 prefix-tuning code is adapted from [PrefixTuning](https://github.com/XiangLi1999/PrefixTuning),
