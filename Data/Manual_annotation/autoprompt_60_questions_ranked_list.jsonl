@@ -1,0 +1,60 @@
+{"0": ["money", "car", "gun", "sword", "boat", "wine", "shoes", "coffee", "beer", "cat"], "question": "one thing a monk probably would not own is"}
+{"1": ["money", "bike", "sword", "chair", "books", "brooch", "bicycle", "gold", "phone", "kitty"], "question": "one thing a monk probably would own is"}
+{"2": ["go gym", "take shower", "eat", "go bathroom", "get coffee", "coffee", "walk", "sleep", "shower", "sit"], "question": "one thing that people usually do before they leave the house for work is"}
+{"3": ["take shower", "go bathroom", "eat", "sleep", "shower", "drive", "get dressed", "pee", "go gym", "exercise"], "question": "one thing that people rarely do before they leave the house for work is"}
+{"4": ["coffee", "eggs", "butter", "cheese", "cream", "mess", "cookies", "expensive", "sugar", "cake"], "question": "one thing you are likely making if you buy milk, eggs, sugar and cream is"}
+{"5": ["chicken", "eggs", "rice", "bread", "cooking", "chicken soup", "flour", "sauce", "gravy", "wheat"], "question": "one thing you are likely making if you buy oil, flour and chicken is"}
+{"6": ["cabbage", "broccoli", "spinach", "lettuce", "carrots", "cauliflower", "potato", "potatoes", "pumpkin", "gooseberries"], "question": "one vegetable that is about as big as your head is"}
+{"7": ["broccoli", "cabbage", "lettuce", "carrots", "spinach", "squash", "cucumbers", "eggplant", "cucumber", "kiwi"], "question": "one vegetable that is about as big as your fist is"}
+{"8": ["food", "privacy", "travel", "sleep", "air conditioning", "time", "wifi", "internet", "toilet", "airfares"], "question": "one luxury people give up while traveling is"}
+{"9": ["car", "food", "travel", "cell phone", "passport", "luggage", "hotel", "laptop", "phone", "money"], "question": "one luxury people would not leave behind while traveling is"}
+{"10": ["hockey", "soccer", "golf", "basketball", "football", "tennis", "baseball", "rugby", "volleyball", "ice hockey"], "question": "one sport that requires a lot of equipment is"}
+{"11": ["basketball", "soccer", "hockey", "golf", "volleyball", "tennis", "football", "baseball", "rugby", "lacrosse"], "question": "one sport that you don't need a lot of equipment for is"}
+{"12": ["museum", "garage", "shop", "warehouse", "house", "gym", "bar", "greenhouse", "closet", "park"], "question": "one thing people might turn their garage into is"}
+{"13": ["park", "garden", "zoo", "house", "tree", "cemetery", "castle", "barn", "couch", "lawn"], "question": "one thing people might turn their yard into is"}
+{"14": ["computer", "laptop", "desk", "fax machine", "television", "phone", "printer", "router", "PC", "telephone"], "question": "one piece of equipment that you are likely to find at your office and not at home is"}
+{"15": ["computer", "laptop", "desk", "fax machine", "telephone", "mouse", "keyboard", "desktop computer", "phone", "printer"], "question": "one piece of equipment that you are likely to find at home but not at your office is"}
+{"16": ["food", "beer", "dog", "chocolate", "ice cream", "cell phone", "gun", "wine", "phone", "water"], "question": "one thing that an athlete would not keep in her refrigerator is"}
+{"17": ["water", "beer", "chocolate", "ice cream", "purse", "food", "cell phone", "milk", "cookies", "water bottle"], "question": "one thing that an athlete probably keeps in her refrigerator is"}
+{"18": ["pair shoes", "t-shirt", "jacket", "coat", "shirt", "dress", "jeans", "shoes", "underwear", "pants"], "question": "one item of clothing that you wouldn't lend to one person is"}
+{"19": ["t-shirt", "jacket", "pair jeans", "dress", "shirt", "pair pants", "pair shoes", "sweater", "T-shirt", "jeans"], "question": "one item of clothing that you would be okay with lending it to one person is"}
+{"20": ["cancer", "homeless", "homelessness", "children", "breast cancer", "Hospice", "education", "diabetes", "veterans", "autism"], "question": "one cause you are likely to donate to is"}
+{"21": ["cancer", "homeless", "homelessness", "charity", "AIDS", "fire", "school", "blood", "schools", "breast cancer"], "question": "one cause people would never donate to is"}
+{"22": ["pizza", "cheese", "cheddar", "cheese dumplings", "casserole", "chorizo", "mozzarella", "chicken", "dutch cheese", "pauz"], "question": "one popular dish made with cheese is"}
+{"23": ["pizza", "kabocha", "kraut", "dumpling", "steak", "kos", "shawarma", "chicken", "koumma", "pork"], "question": "one popular dish made without any meat is"}
+{"24": ["weather", "another", "obvious", "temperature", "safety", "others", "different", "cold", "fear", "one reason"], "question": "one reason why one person would wear gloves is"}
+{"25": ["fall", "eat", "hit someone", "run", "pee", "cut", "scratch", "fight", "bite", "throw"], "question": "one thing you wouldn't want to do with your gloves on is"}
+{"26": ["hug", "friendship", "kiss", "handshake", "hugs", "threesome", "hat", "coffee", "hand shake", "end"], "question": "one sign that two people are friends is"}
+{"27": ["fight", "fighting", "disagreement", "argument", "yelling", "spat", "dispute", "shouting", "friendly", "email"], "question": "one sign that two people are on bad terms is"}
+{"28": ["TV", "tv", "couch", "table", "toilet", "bed", "television", "microwave", "chair", "lamp"], "question": "one thing around the house that's often replaced is"}
+{"29": ["TV", "tv", "fridge", "microwave", "couch", "refrigerator", "dishwasher", "coffee table", "bed", "table"], "question": "one thing around the house that's hardly ever replaced is"}
+{"30": ["smoke", "drink", "eat", "sleep", "lie", "drink alcohol", "steal", "go", "smoking", "drive"], "question": "one thing parents tell their kids not to do is"}
+{"31": ["play", "read", "sleep", "work", "learn", "eat", "exercise", "play sports", "run", "try"], "question": "one thing parents would encourage their kids to do is"}
+{"32": ["construction", "work", "carpenter", "firefighter", "truck driver", "roofing", "police", "fireman", "bartender", "school"], "question": "one job where you have to be awake at night is"}
+{"33": ["construction", "hospital", "fireman", "restaurant", "plumber", "cook", "cleaning", "chef", "firefighter", "teaching"], "question": "one job where you only have to work during the day is"}
+{"34": ["attitude", "cheap", "weight", "lazy", "price", "size", "boring", "low pay", "rude", "poor attendance"], "question": "one complaint people have about their gym instructors is"}
+{"35": ["annoying"], "question": "one complaint people have about their kids is"}
+{"36": ["kiss", "hug", "sex", "make", "drink", "talk", "text", "sleep", "hang", "get drunk"], "question": "one thing people do with close friends that they wouldn't do with a stranger is"}
+{"37": ["kiss", "hug", "sex", "hug stranger", "drink", "sleep", "talk", "beer", "make", "date"], "question": "one thing people would only do with a stranger but never with close friends is"}
+{"38": ["go work", "work", "get job", "start business", "work restaurant", "go college", "volunteer", "become teacher", "travel", "work government"], "question": "instead of going to college, one thing a person might do after high school is"}
+{"39": ["move", "sleep", "go college", "get married", "smoke", "die", "go home", "travel", "go", "live"], "question": "one thing a person might do during high school is"}
+{"40": ["couch", "old", "weather", "people", "pets", "cat", "parents", "movie", "church", "family"], "question": "one thing that people often remember for a long time, even when they get old is"}
+{"41": ["couch", "money", "health", "bed", "time", "memory", "internet", "people", "TV", "food"], "question": "one thing that people easily forget, when they get old is"}
+{"42": ["couch", "toilet paper", "milk", "coffee", "popcorn", "computer", "dog food", "cereal", "coffee cup", "cat"], "question": "one thing at the store you would find on the same aisle as cereal is"}
+{"43": ["milk", "coffee", "toilet paper", "couch", "dog food", "cheese", "cereal", "ketchup", "popcorn", "eggs"], "question": "one thing at the store you would find on a different aisle from cereal is"}
+{"44": ["pizza", "cheese", "dough", "pizza dough", "bread", "sauce", "mozzarella", "pizza sauce", "butter", "tomato"], "question": "one thing you need to make a pizza is"}
+{"45": ["cake", "chocolate", "sugar", "flour", "icing", "eggs", "buttercream", "coffee", "water", "butter"], "question": "one thing you need to make a cake is"}
+{"46": ["comfort", "health", "following", "space", "safety", "convenience", "comfort level", "shelter", "personality", "cost"], "question": "one reason why a person might prefer to own a cat over a dog is"}
+{"47": ["following", "comfort", "health", "temperament", "simple", "safety", "pet's personality", "breed", "size", "social"], "question": "one reason why a person might prefer a dog over a cat is"}
+{"48": ["dog", "cat", "cow", "dogs", "rabbit", "fox", "sheep", "horse", "goat", "squirrel"], "question": "one animal that one person might teach to do tricks is"}
+{"49": ["dog", "cat", "dogs", "cow", "raccoon", "fox", "elephant", "rat", "horse", "bull"], "question": "one animal that can probably never be trained to do tricks is"}
+{"50": ["cat", "dog", "cats", "dogs", "squirrel", "guinea pig", "hamster", "mouse", "ferret", "raccoon"], "question": "besides birds, one pet people keep in a cage is"}
+{"51": ["cat", "dog", "guinea pig", "rabbit", "ferret", "parrot", "hamster", "poodle", "rat", "bird"], "question": "one pet people keep outside of a cage is"}
+{"52": ["different", "age", "bullying", "different interests", "size", "parent", "sibling rivalry", "social media", "social", "peer pressure"], "question": "one reason why a child may not want to be friends with another child is"}
+{"53": ["friendship", "similar", "following", "similar interests", "simple", "parents", "family", "alike", "love", "play"], "question": "one reason why two children would want to be friends with each other is"}
+{"54": ["couch", "furniture", "food", "TV", "coffee", "toilet paper", "phone", "sofa", "car", "wine"], "question": "one thing people buy that lasts a long time is"}
+{"55": ["couch", "car", "dog", "bed", "toilet paper", "television", "phone", "furniture", "microwave", "sofa"], "question": "one thing people buy that never lasts too long is"}
+{"56": ["fishing", "rowing", "swimming", "bingo", "dog walking", "skateboarding", "dominoes", "horse riding", "pub crawl", "kite flying"], "question": "one activity that's often depicted in movies though people seldom do it in real life is"}
+{"57": ["swimming", "bowling", "snowboarding", "riding bike", "go walk", "running", "kayaking", "snowmobiling", "bungee jumping", "go outside"], "question": "one activity that a lot of people do in reality but they don't shown it in movies is"}
+{"58": ["library", "hospital", "mall", "gym", "park", "grocery store", "post office", "KFC", "bar", "pub"], "question": "one place where you might have a long conversation with one person who works there is"}
+{"59": ["library", "grocery store", "mall", "hospital", "gym", "bank", "post office", "park", "food court", "dentist"], "question": "one place where you don't want to have a long conversation with one person who works there is"}
