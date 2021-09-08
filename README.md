@@ -1,5 +1,5 @@
 # CS_Model_Adaptation
-This repository contains the code for the paper "Exploring Strategies for Generalizable Commonsense Reasoning with Pre-trained Models" (EMNLP 2021). See full paper [here]()
+This repository contains the code for the paper "Exploring Strategies for Generalizable Commonsense Reasoning with Pre-trained Models" (EMNLP 2021). See full paper [here](https://arxiv.org/abs/2109.02837)
 
 Note that our finetuning and inference code are adpated from [ProtoQA](https://github.com/iesl/ProtoQA_GPT2), 
 prefix-tuning code is adapted from [PrefixTuning](https://github.com/XiangLi1999/PrefixTuning),
@@ -48,4 +48,12 @@ For the 30 selected questions and 30 newly annotated questions, as well as their
 
 ## Cite 
 ```
+@misc{ma2021exploring,
+      title={Exploring Strategies for Generalizable Commonsense Reasoning with Pre-trained Models}, 
+      author={Kaixin Ma and Filip Ilievski and Jonathan Francis and Satoru Ozaki and Eric Nyberg and Alessandro Oltramari},
+      year={2021},
+      eprint={2109.02837},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
