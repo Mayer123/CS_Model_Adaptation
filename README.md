@@ -48,12 +48,21 @@ For the 30 selected questions and 30 newly annotated questions, as well as their
 
 ## Cite 
 ```
-@misc{ma2021exploring,
-      title={Exploring Strategies for Generalizable Commonsense Reasoning with Pre-trained Models}, 
-      author={Kaixin Ma and Filip Ilievski and Jonathan Francis and Satoru Ozaki and Eric Nyberg and Alessandro Oltramari},
-      year={2021},
-      eprint={2109.02837},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{ma-etal-2021-exploring,
+    title = "Exploring Strategies for Generalizable Commonsense Reasoning with Pre-trained Models",
+    author = "Ma, Kaixin  and
+      Ilievski, Filip  and
+      Francis, Jonathan  and
+      Ozaki, Satoru  and
+      Nyberg, Eric  and
+      Oltramari, Alessandro",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.445",
+    doi = "10.18653/v1/2021.emnlp-main.445",
+    pages = "5474--5483",
 }
 ```
